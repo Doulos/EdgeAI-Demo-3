@@ -1,0 +1,7 @@
+onnxruntime   
+opencv-python 
+paho-mqtt==1.6.1     
+Pillow        
+pyserial      
+ai-edge-litert
+pyalsaaudio
