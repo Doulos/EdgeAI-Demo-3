@@ -5,3 +5,4 @@ Pillow
 pyserial      
 ai-edge-litert
 pyalsaaudio
+moonshine-voice
